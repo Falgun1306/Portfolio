@@ -11,24 +11,10 @@ export const personalInfo = {
     "MERN Stack Developer",
     "Backend Architect",
     "React Developer",
-    "Always Building"
+    "Always Learning and Always Building"
   ],
 };
 
-export const experience = [
-  {
-    role: "Full-Stack Development Intern",
-    company: "UptoSkills",
-    duration: "Mar 2026 — Jun 2026",
-    type: "Internship",
-    badge: "🏆 Intern of the Month",
-    highlights: [
-      "Built frontend and backend features across multiple web projects",
-      "Led the team for final 20 days — coordinated tasks and tracked progress",
-      "Developed backend services with Node.js, Express.js, including GitHub integration and email services",
-    ],
-  },
-];
 
 export const projects = [
   {
