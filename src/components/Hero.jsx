@@ -74,14 +74,6 @@ export default function Hero() {
             >
               Get in Touch
             </a>
-            <a
-              href={personalInfo.resumePath}
-              download="Falgun_Panchal_Resume.pdf"
-              className="inline-flex items-center gap-2 px-4 py-3 rounded-lg text-zinc-400 hover:text-white text-sm font-medium transition-colors"
-            >
-              <Download className="w-4 h-4" />
-              Resume
-            </a>
           </div>
         </div>
 
